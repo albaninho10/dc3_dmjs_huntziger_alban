@@ -10,4 +10,3 @@ const uniqueOccurence = (array) => {
 let array = [1, 3, 5, 7, 6, 4, 3]
 
 console.log(uniqueOccurence(array))
-
